@@ -1,2 +1,2 @@
 # sqlzoo-answer
-practice
+practice for mysql
